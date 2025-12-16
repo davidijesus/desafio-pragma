@@ -1,0 +1,21 @@
+ANÁLISES DO DATASET (resumo)
+
+Top jogadores por kills (global):
+  - id_2: 166
+  - id_3: 139
+  - id_4: 136
+  - id_5: 122
+  - id_6: 93
+  - id_7: 93
+  - id_8: 19
+
+Mapas com mais total_kills:
+  - q3dm17: 698
+  - Q3TOURNEY6_CTF: 371
+
+Armas favoritas mais frequentes:
+  - MOD_ROCKET_SPLASH: 34
+  - MOD_ROCKET: 20
+  - MOD_RAILGUN: 15
+  - MOD_TELEFRAG: 6
+  - MOD_BFG_SPLASH: 2

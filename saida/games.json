@@ -1,0 +1,2057 @@
+{
+  "games": [
+    {
+      "game": 1,
+      "map": "q3dm17",
+      "total_kills": 0,
+      "players": [
+        {
+          "id": 2,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 0,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": []
+        }
+      ]
+    },
+    {
+      "game": 2,
+      "map": "q3dm17",
+      "total_kills": 11,
+      "players": [
+        {
+          "id": 2,
+          "current_name": "",
+          "old_names": [],
+          "kills": 1,
+          "deaths": 10,
+          "suicides": 2,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "ammo_rockets",
+            "item_armor_body",
+            "ammo_shells",
+            "item_health_large",
+            "item_quad",
+            "item_armor_shard",
+            "item_armor_combat",
+            "weapon_shotgun",
+            "item_health_mega"
+          ]
+        },
+        {
+          "id": 3,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 1,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": []
+        }
+      ]
+    },
+    {
+      "game": 3,
+      "map": "q3dm17",
+      "total_kills": 4,
+      "players": [
+        {
+          "id": 2,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 2,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "item_armor_shard",
+            "item_armor_combat",
+            "item_health_large",
+            "ammo_rockets"
+          ]
+        },
+        {
+          "id": 3,
+          "current_name": "",
+          "old_names": [],
+          "kills": 1,
+          "deaths": 0,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "item_armor_shard",
+            "item_armor_combat",
+            "weapon_railgun"
+          ]
+        },
+        {
+          "id": 4,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 2,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "weapon_shotgun",
+            "ammo_shells",
+            "item_health_large",
+            "weapon_rocketlauncher",
+            "ammo_rockets"
+          ]
+        }
+      ]
+    },
+    {
+      "game": 4,
+      "map": "q3dm17",
+      "total_kills": 105,
+      "players": [
+        {
+          "id": 2,
+          "current_name": "",
+          "old_names": [],
+          "kills": 16,
+          "deaths": 31,
+          "suicides": 4,
+          "favorite_weapon": "MOD_ROCKET",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "item_health_large",
+            "weapon_railgun",
+            "ammo_rockets",
+            "weapon_shotgun",
+            "item_armor_shard",
+            "item_armor_combat",
+            "ammo_bullets",
+            "item_quad",
+            "item_armor_body",
+            "item_health"
+          ]
+        },
+        {
+          "id": 3,
+          "current_name": "",
+          "old_names": [],
+          "kills": 27,
+          "deaths": 23,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "item_armor_shard",
+            "item_armor_combat",
+            "weapon_rocketlauncher",
+            "ammo_rockets",
+            "weapon_railgun",
+            "item_quad",
+            "item_armor_body",
+            "item_health_large",
+            "ammo_bullets",
+            "ammo_slugs",
+            "weapon_shotgun",
+            "item_health_mega"
+          ]
+        },
+        {
+          "id": 4,
+          "current_name": "",
+          "old_names": [],
+          "kills": 22,
+          "deaths": 27,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "ammo_rockets",
+            "weapon_rocketlauncher",
+            "item_armor_body",
+            "item_armor_shard",
+            "item_armor_combat",
+            "ammo_shells",
+            "weapon_shotgun",
+            "weapon_railgun",
+            "item_health_large",
+            "ammo_bullets",
+            "item_quad",
+            "item_health"
+          ]
+        },
+        {
+          "id": 5,
+          "current_name": "",
+          "old_names": [],
+          "kills": 15,
+          "deaths": 24,
+          "suicides": 1,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "item_armor_body",
+            "ammo_rockets",
+            "item_armor_shard",
+            "item_health_large",
+            "item_armor_combat",
+            "weapon_railgun",
+            "weapon_shotgun",
+            "ammo_shells",
+            "item_quad"
+          ]
+        }
+      ]
+    },
+    {
+      "game": 5,
+      "map": "q3dm17",
+      "total_kills": 14,
+      "players": [
+        {
+          "id": 2,
+          "current_name": "",
+          "old_names": [],
+          "kills": 2,
+          "deaths": 5,
+          "suicides": 0,
+          "favorite_weapon": "MOD_RAILGUN",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "item_armor_shard",
+            "item_armor_combat",
+            "ammo_rockets",
+            "item_armor_body",
+            "weapon_railgun",
+            "item_health_large",
+            "ammo_slugs",
+            "ammo_shells",
+            "weapon_shotgun"
+          ]
+        },
+        {
+          "id": 3,
+          "current_name": "",
+          "old_names": [],
+          "kills": 2,
+          "deaths": 0,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET",
+          "collected_items": [
+            "ammo_rockets",
+            "weapon_rocketlauncher",
+            "item_health_large",
+            "item_armor_body",
+            "weapon_railgun"
+          ]
+        },
+        {
+          "id": 4,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 1,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "ammo_rockets"
+          ]
+        },
+        {
+          "id": 5,
+          "current_name": "",
+          "old_names": [],
+          "kills": 3,
+          "deaths": 8,
+          "suicides": 2,
+          "favorite_weapon": "MOD_ROCKET",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "item_armor_body",
+            "item_armor_shard",
+            "item_armor_combat",
+            "item_health_mega",
+            "weapon_railgun",
+            "ammo_rockets",
+            "weapon_shotgun"
+          ]
+        }
+      ]
+    },
+    {
+      "game": 6,
+      "map": "q3dm17",
+      "total_kills": 29,
+      "players": [
+        {
+          "id": 2,
+          "current_name": "",
+          "old_names": [],
+          "kills": 9,
+          "deaths": 2,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "ammo_rockets",
+            "item_armor_body",
+            "item_armor_shard",
+            "item_armor_combat",
+            "weapon_shotgun",
+            "item_health_large",
+            "ammo_shells"
+          ]
+        },
+        {
+          "id": 3,
+          "current_name": "",
+          "old_names": [],
+          "kills": 4,
+          "deaths": 7,
+          "suicides": 0,
+          "favorite_weapon": "MOD_SHOTGUN",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "item_health_large",
+            "weapon_railgun",
+            "item_quad",
+            "weapon_shotgun",
+            "item_armor_shard",
+            "ammo_slugs",
+            "ammo_rockets"
+          ]
+        },
+        {
+          "id": 4,
+          "current_name": "",
+          "old_names": [],
+          "kills": 8,
+          "deaths": 8,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "ammo_shells",
+            "weapon_shotgun",
+            "weapon_rocketlauncher",
+            "ammo_rockets",
+            "weapon_railgun",
+            "item_quad",
+            "item_armor_body",
+            "item_health_large",
+            "item_armor_shard",
+            "item_armor_combat"
+          ]
+        },
+        {
+          "id": 5,
+          "current_name": "",
+          "old_names": [],
+          "kills": 2,
+          "deaths": 5,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "weapon_railgun",
+            "item_armor_body"
+          ]
+        },
+        {
+          "id": 6,
+          "current_name": "",
+          "old_names": [],
+          "kills": 1,
+          "deaths": 4,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "ammo_bullets",
+            "weapon_rocketlauncher",
+            "item_armor_combat",
+            "item_health_large"
+          ]
+        },
+        {
+          "id": 7,
+          "current_name": "",
+          "old_names": [],
+          "kills": 1,
+          "deaths": 3,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "ammo_rockets",
+            "item_armor_body",
+            "ammo_shells",
+            "item_health_large"
+          ]
+        }
+      ]
+    },
+    {
+      "game": 7,
+      "map": "q3dm17",
+      "total_kills": 130,
+      "players": [
+        {
+          "id": 2,
+          "current_name": "",
+          "old_names": [],
+          "kills": 24,
+          "deaths": 19,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET",
+          "collected_items": [
+            "ammo_rockets",
+            "weapon_rocketlauncher",
+            "item_armor_shard",
+            "item_armor_combat",
+            "ammo_bullets",
+            "item_health_large",
+            "item_quad",
+            "weapon_railgun",
+            "weapon_shotgun"
+          ]
+        },
+        {
+          "id": 3,
+          "current_name": "",
+          "old_names": [],
+          "kills": 18,
+          "deaths": 15,
+          "suicides": 2,
+          "favorite_weapon": "MOD_RAILGUN",
+          "collected_items": [
+            "weapon_railgun",
+            "weapon_rocketlauncher",
+            "ammo_rockets",
+            "item_quad",
+            "weapon_shotgun",
+            "item_armor_shard",
+            "item_armor_combat",
+            "ammo_bullets",
+            "item_health_large",
+            "item_armor_body"
+          ]
+        },
+        {
+          "id": 4,
+          "current_name": "",
+          "old_names": [],
+          "kills": 13,
+          "deaths": 21,
+          "suicides": 1,
+          "favorite_weapon": "MOD_ROCKET",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "item_health_large",
+            "item_armor_body",
+            "weapon_railgun",
+            "item_health",
+            "item_quad",
+            "weapon_shotgun",
+            "item_armor_combat",
+            "ammo_slugs",
+            "ammo_rockets",
+            "ammo_shells",
+            "item_armor_shard",
+            "ammo_bullets"
+          ]
+        },
+        {
+          "id": 5,
+          "current_name": "",
+          "old_names": [],
+          "kills": 12,
+          "deaths": 26,
+          "suicides": 2,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "ammo_rockets",
+            "weapon_rocketlauncher",
+            "weapon_railgun",
+            "item_armor_shard",
+            "item_quad",
+            "weapon_shotgun",
+            "item_armor_combat",
+            "item_health_large",
+            "item_health"
+          ]
+        },
+        {
+          "id": 6,
+          "current_name": "",
+          "old_names": [],
+          "kills": 9,
+          "deaths": 28,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET",
+          "collected_items": [
+            "ammo_bullets",
+            "weapon_rocketlauncher",
+            "weapon_shotgun",
+            "ammo_shells",
+            "ammo_rockets",
+            "item_quad",
+            "item_armor_shard",
+            "weapon_railgun"
+          ]
+        },
+        {
+          "id": 7,
+          "current_name": "",
+          "old_names": [],
+          "kills": 19,
+          "deaths": 19,
+          "suicides": 3,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "item_armor_body",
+            "weapon_rocketlauncher",
+            "item_quad",
+            "ammo_rockets",
+            "weapon_railgun",
+            "weapon_shotgun",
+            "item_health_large",
+            "item_armor_shard",
+            "item_armor_combat"
+          ]
+        },
+        {
+          "id": 8,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 2,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "weapon_railgun"
+          ]
+        }
+      ]
+    },
+    {
+      "game": 8,
+      "map": "q3dm17",
+      "total_kills": 89,
+      "players": [
+        {
+          "id": 2,
+          "current_name": "",
+          "old_names": [],
+          "kills": 16,
+          "deaths": 14,
+          "suicides": 1,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "weapon_shotgun",
+            "ammo_shells",
+            "weapon_rocketlauncher",
+            "ammo_bullets",
+            "item_armor_shard",
+            "item_health_large",
+            "weapon_railgun",
+            "item_armor_combat"
+          ]
+        },
+        {
+          "id": 3,
+          "current_name": "",
+          "old_names": [],
+          "kills": 24,
+          "deaths": 11,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "ammo_rockets",
+            "weapon_rocketlauncher",
+            "item_armor_shard",
+            "item_armor_combat",
+            "item_health_large",
+            "item_quad",
+            "weapon_railgun"
+          ]
+        },
+        {
+          "id": 4,
+          "current_name": "",
+          "old_names": [],
+          "kills": 15,
+          "deaths": 11,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "ammo_rockets",
+            "weapon_rocketlauncher",
+            "ammo_bullets",
+            "item_health_large",
+            "weapon_railgun",
+            "item_armor_combat",
+            "ammo_shells",
+            "weapon_shotgun",
+            "item_armor_body",
+            "ammo_slugs",
+            "item_health",
+            "item_armor_shard",
+            "item_quad"
+          ]
+        },
+        {
+          "id": 5,
+          "current_name": "",
+          "old_names": [],
+          "kills": 3,
+          "deaths": 16,
+          "suicides": 2,
+          "favorite_weapon": "MOD_RAILGUN",
+          "collected_items": [
+            "weapon_railgun",
+            "item_armor_shard",
+            "weapon_rocketlauncher",
+            "ammo_rockets",
+            "item_armor_combat",
+            "item_armor_body"
+          ]
+        },
+        {
+          "id": 6,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 20,
+          "suicides": 1,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "ammo_shells",
+            "weapon_shotgun",
+            "item_armor_body",
+            "weapon_railgun",
+            "weapon_rocketlauncher",
+            "item_health_large",
+            "item_quad",
+            "item_armor_shard",
+            "ammo_bullets",
+            "ammo_rockets"
+          ]
+        },
+        {
+          "id": 7,
+          "current_name": "",
+          "old_names": [],
+          "kills": 11,
+          "deaths": 17,
+          "suicides": 1,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "item_armor_body",
+            "weapon_rocketlauncher",
+            "item_armor_shard",
+            "item_health_large",
+            "item_armor_combat",
+            "ammo_rockets",
+            "weapon_railgun"
+          ]
+        }
+      ]
+    },
+    {
+      "game": 9,
+      "map": "q3dm17",
+      "total_kills": 67,
+      "players": [
+        {
+          "id": 2,
+          "current_name": "",
+          "old_names": [],
+          "kills": 8,
+          "deaths": 12,
+          "suicides": 1,
+          "favorite_weapon": "MOD_ROCKET",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "weapon_shotgun",
+            "item_armor_shard",
+            "item_armor_combat",
+            "item_health_large",
+            "item_quad",
+            "weapon_railgun",
+            "ammo_rockets"
+          ]
+        },
+        {
+          "id": 3,
+          "current_name": "",
+          "old_names": [],
+          "kills": 2,
+          "deaths": 4,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "weapon_shotgun"
+          ]
+        },
+        {
+          "id": 4,
+          "current_name": "",
+          "old_names": [],
+          "kills": 15,
+          "deaths": 15,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "ammo_rockets",
+            "weapon_rocketlauncher",
+            "ammo_slugs",
+            "weapon_railgun",
+            "item_armor_shard",
+            "weapon_shotgun",
+            "item_health_large",
+            "item_armor_body",
+            "item_quad",
+            "ammo_bullets"
+          ]
+        },
+        {
+          "id": 5,
+          "current_name": "",
+          "old_names": [],
+          "kills": 11,
+          "deaths": 7,
+          "suicides": 1,
+          "favorite_weapon": "MOD_RAILGUN",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "ammo_rockets",
+            "ammo_slugs",
+            "weapon_railgun",
+            "item_health_large"
+          ]
+        },
+        {
+          "id": 6,
+          "current_name": "",
+          "old_names": [],
+          "kills": 6,
+          "deaths": 15,
+          "suicides": 1,
+          "favorite_weapon": "MOD_ROCKET",
+          "collected_items": [
+            "ammo_shells",
+            "weapon_shotgun",
+            "item_armor_shard",
+            "item_armor_combat",
+            "weapon_rocketlauncher",
+            "item_armor_body",
+            "item_health_large",
+            "ammo_rockets"
+          ]
+        },
+        {
+          "id": 7,
+          "current_name": "",
+          "old_names": [],
+          "kills": 8,
+          "deaths": 14,
+          "suicides": 3,
+          "favorite_weapon": "MOD_ROCKET",
+          "collected_items": [
+            "ammo_rockets",
+            "weapon_rocketlauncher",
+            "item_armor_shard",
+            "item_armor_combat",
+            "item_quad",
+            "item_health_large",
+            "weapon_railgun",
+            "ammo_shells",
+            "weapon_shotgun",
+            "item_armor_body",
+            "ammo_bullets"
+          ]
+        }
+      ]
+    },
+    {
+      "game": 10,
+      "map": "Q3TOURNEY6_CTF",
+      "total_kills": 60,
+      "players": [
+        {
+          "id": 2,
+          "current_name": "",
+          "old_names": [],
+          "kills": 1,
+          "deaths": 8,
+          "suicides": 0,
+          "favorite_weapon": "MOD_TELEFRAG",
+          "collected_items": [
+            "weapon_railgun",
+            "weapon_rocketlauncher",
+            "item_health_large"
+          ]
+        },
+        {
+          "id": 3,
+          "current_name": "",
+          "old_names": [],
+          "kills": 5,
+          "deaths": 3,
+          "suicides": 0,
+          "favorite_weapon": "MOD_TELEFRAG",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "item_health",
+            "item_quad"
+          ]
+        },
+        {
+          "id": 4,
+          "current_name": "",
+          "old_names": [],
+          "kills": 9,
+          "deaths": 5,
+          "suicides": 0,
+          "favorite_weapon": "MOD_RAILGUN",
+          "collected_items": [
+            "weapon_railgun",
+            "item_health_large",
+            "weapon_rocketlauncher",
+            "ammo_rockets",
+            "ammo_bullets",
+            "weapon_bfg",
+            "item_armor_body",
+            "item_health"
+          ]
+        },
+        {
+          "id": 5,
+          "current_name": "",
+          "old_names": [],
+          "kills": 6,
+          "deaths": 9,
+          "suicides": 0,
+          "favorite_weapon": "MOD_TELEFRAG",
+          "collected_items": []
+        },
+        {
+          "id": 6,
+          "current_name": "",
+          "old_names": [],
+          "kills": 6,
+          "deaths": 14,
+          "suicides": 0,
+          "favorite_weapon": "MOD_TELEFRAG",
+          "collected_items": [
+            "ammo_rockets",
+            "ammo_bullets",
+            "weapon_rocketlauncher",
+            "weapon_bfg",
+            "item_health",
+            "weapon_railgun"
+          ]
+        },
+        {
+          "id": 7,
+          "current_name": "",
+          "old_names": [],
+          "kills": 5,
+          "deaths": 8,
+          "suicides": 0,
+          "favorite_weapon": "MOD_TELEFRAG",
+          "collected_items": [
+            "item_quad",
+            "weapon_rocketlauncher",
+            "weapon_bfg",
+            "weapon_railgun",
+            "item_health_large"
+          ]
+        },
+        {
+          "id": 8,
+          "current_name": "",
+          "old_names": [],
+          "kills": 9,
+          "deaths": 13,
+          "suicides": 1,
+          "favorite_weapon": "MOD_TELEFRAG",
+          "collected_items": [
+            "weapon_railgun",
+            "item_armor_body",
+            "weapon_bfg",
+            "weapon_rocketlauncher",
+            "item_health"
+          ]
+        }
+      ]
+    },
+    {
+      "game": 11,
+      "map": "Q3TOURNEY6_CTF",
+      "total_kills": 20,
+      "players": [
+        {
+          "id": 2,
+          "current_name": "",
+          "old_names": [],
+          "kills": 6,
+          "deaths": 4,
+          "suicides": 1,
+          "favorite_weapon": "MOD_RAILGUN",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "weapon_railgun",
+            "item_armor_body",
+            "weapon_bfg",
+            "ammo_rockets",
+            "ammo_bullets"
+          ]
+        },
+        {
+          "id": 3,
+          "current_name": "",
+          "old_names": [],
+          "kills": 1,
+          "deaths": 5,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "weapon_railgun",
+            "weapon_rocketlauncher",
+            "weapon_bfg",
+            "item_armor_body",
+            "item_health",
+            "team_CTF_blueflag"
+          ]
+        },
+        {
+          "id": 4,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 2,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "ammo_bullets",
+            "ammo_rockets",
+            "weapon_railgun",
+            "item_health_large",
+            "team_CTF_redflag",
+            "weapon_rocketlauncher"
+          ]
+        },
+        {
+          "id": 5,
+          "current_name": "",
+          "old_names": [],
+          "kills": 4,
+          "deaths": 1,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "team_CTF_redflag",
+            "item_health_large",
+            "team_CTF_blueflag",
+            "weapon_railgun"
+          ]
+        },
+        {
+          "id": 6,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 3,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "weapon_railgun",
+            "weapon_rocketlauncher",
+            "team_CTF_redflag",
+            "team_CTF_blueflag",
+            "ammo_rockets",
+            "weapon_bfg"
+          ]
+        },
+        {
+          "id": 7,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 4,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "weapon_railgun",
+            "team_CTF_blueflag",
+            "ammo_rockets",
+            "ammo_bullets"
+          ]
+        },
+        {
+          "id": 8,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 1,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "team_CTF_redflag"
+          ]
+        }
+      ]
+    },
+    {
+      "game": 12,
+      "map": "Q3TOURNEY6_CTF",
+      "total_kills": 160,
+      "players": [
+        {
+          "id": 2,
+          "current_name": "",
+          "old_names": [],
+          "kills": 24,
+          "deaths": 21,
+          "suicides": 2,
+          "favorite_weapon": "MOD_RAILGUN",
+          "collected_items": [
+            "ammo_rockets",
+            "ammo_bullets",
+            "weapon_rocketlauncher",
+            "item_health_large",
+            "weapon_bfg",
+            "team_CTF_redflag",
+            "weapon_railgun",
+            "team_CTF_blueflag",
+            "item_health",
+            "item_armor_body"
+          ]
+        },
+        {
+          "id": 3,
+          "current_name": "",
+          "old_names": [],
+          "kills": 11,
+          "deaths": 31,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "team_CTF_blueflag",
+            "weapon_railgun",
+            "item_health_large",
+            "team_CTF_redflag",
+            "weapon_bfg",
+            "item_armor_body",
+            "ammo_rockets"
+          ]
+        },
+        {
+          "id": 4,
+          "current_name": "",
+          "old_names": [],
+          "kills": 12,
+          "deaths": 16,
+          "suicides": 2,
+          "favorite_weapon": "MOD_ROCKET",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "ammo_rockets",
+            "ammo_bullets",
+            "team_CTF_blueflag",
+            "team_CTF_redflag",
+            "item_health_large",
+            "weapon_railgun",
+            "weapon_bfg",
+            "item_health",
+            "item_armor_body"
+          ]
+        },
+        {
+          "id": 5,
+          "current_name": "",
+          "old_names": [],
+          "kills": 21,
+          "deaths": 23,
+          "suicides": 1,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "weapon_railgun",
+            "team_CTF_blueflag",
+            "ammo_rockets",
+            "ammo_bullets",
+            "item_health_large",
+            "team_CTF_redflag",
+            "weapon_bfg",
+            "item_armor_body"
+          ]
+        },
+        {
+          "id": 6,
+          "current_name": "",
+          "old_names": [],
+          "kills": 16,
+          "deaths": 24,
+          "suicides": 1,
+          "favorite_weapon": "MOD_RAILGUN",
+          "collected_items": [
+            "weapon_railgun",
+            "weapon_bfg",
+            "weapon_rocketlauncher",
+            "team_CTF_redflag",
+            "item_armor_body",
+            "team_CTF_blueflag",
+            "ammo_bullets",
+            "item_health_large"
+          ]
+        },
+        {
+          "id": 7,
+          "current_name": "",
+          "old_names": [],
+          "kills": 21,
+          "deaths": 19,
+          "suicides": 2,
+          "favorite_weapon": "MOD_RAILGUN",
+          "collected_items": [
+            "weapon_railgun",
+            "team_CTF_redflag",
+            "weapon_rocketlauncher",
+            "ammo_rockets",
+            "ammo_bullets",
+            "item_health_large",
+            "team_CTF_blueflag"
+          ]
+        },
+        {
+          "id": 8,
+          "current_name": "",
+          "old_names": [],
+          "kills": 7,
+          "deaths": 26,
+          "suicides": 1,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "team_CTF_redflag",
+            "weapon_rocketlauncher",
+            "weapon_railgun",
+            "item_health_large",
+            "team_CTF_blueflag",
+            "ammo_rockets",
+            "ammo_bullets"
+          ]
+        }
+      ]
+    },
+    {
+      "game": 13,
+      "map": "Q3TOURNEY6_CTF",
+      "total_kills": 6,
+      "players": [
+        {
+          "id": 2,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 1,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "weapon_bfg"
+          ]
+        },
+        {
+          "id": 3,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 2,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": []
+        },
+        {
+          "id": 4,
+          "current_name": "",
+          "old_names": [],
+          "kills": 2,
+          "deaths": 0,
+          "suicides": 0,
+          "favorite_weapon": "MOD_BFG_SPLASH",
+          "collected_items": [
+            "weapon_railgun",
+            "item_health_large",
+            "weapon_rocketlauncher",
+            "weapon_bfg"
+          ]
+        },
+        {
+          "id": 5,
+          "current_name": "",
+          "old_names": [],
+          "kills": 1,
+          "deaths": 1,
+          "suicides": 1,
+          "favorite_weapon": "MOD_ROCKET",
+          "collected_items": [
+            "ammo_rockets",
+            "ammo_bullets",
+            "weapon_rocketlauncher",
+            "item_health_large",
+            "team_CTF_redflag",
+            "team_CTF_blueflag"
+          ]
+        },
+        {
+          "id": 6,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 0,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "weapon_railgun",
+            "weapon_rocketlauncher"
+          ]
+        },
+        {
+          "id": 7,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 2,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "weapon_railgun"
+          ]
+        },
+        {
+          "id": 8,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 0,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "weapon_rocketlauncher"
+          ]
+        }
+      ]
+    },
+    {
+      "game": 14,
+      "map": "Q3TOURNEY6_CTF",
+      "total_kills": 122,
+      "players": [
+        {
+          "id": 2,
+          "current_name": "",
+          "old_names": [],
+          "kills": 25,
+          "deaths": 12,
+          "suicides": 0,
+          "favorite_weapon": "MOD_BFG_SPLASH",
+          "collected_items": [
+            "weapon_railgun",
+            "weapon_rocketlauncher",
+            "item_health_large",
+            "team_CTF_redflag",
+            "item_health",
+            "weapon_bfg",
+            "team_CTF_blueflag",
+            "item_armor_body",
+            "ammo_bullets",
+            "ammo_rockets"
+          ]
+        },
+        {
+          "id": 3,
+          "current_name": "",
+          "old_names": [],
+          "kills": 8,
+          "deaths": 25,
+          "suicides": 1,
+          "favorite_weapon": "MOD_RAILGUN",
+          "collected_items": [
+            "ammo_rockets",
+            "ammo_bullets",
+            "weapon_rocketlauncher",
+            "team_CTF_blueflag",
+            "weapon_railgun",
+            "item_armor_body",
+            "team_CTF_redflag",
+            "item_health_large"
+          ]
+        },
+        {
+          "id": 4,
+          "current_name": "",
+          "old_names": [],
+          "kills": 11,
+          "deaths": 21,
+          "suicides": 1,
+          "favorite_weapon": "MOD_ROCKET",
+          "collected_items": [
+            "ammo_bullets",
+            "weapon_rocketlauncher",
+            "item_armor_body",
+            "team_CTF_blueflag",
+            "team_CTF_redflag",
+            "ammo_rockets",
+            "weapon_railgun",
+            "weapon_bfg",
+            "item_health_large"
+          ]
+        },
+        {
+          "id": 5,
+          "current_name": "",
+          "old_names": [],
+          "kills": 12,
+          "deaths": 11,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "team_CTF_redflag",
+            "ammo_bullets",
+            "ammo_rockets",
+            "weapon_railgun",
+            "team_CTF_blueflag",
+            "item_health_large"
+          ]
+        },
+        {
+          "id": 6,
+          "current_name": "",
+          "old_names": [],
+          "kills": 10,
+          "deaths": 14,
+          "suicides": 0,
+          "favorite_weapon": "MOD_RAILGUN",
+          "collected_items": [
+            "ammo_rockets",
+            "weapon_railgun",
+            "team_CTF_blueflag",
+            "weapon_rocketlauncher",
+            "item_health_large",
+            "ammo_bullets",
+            "team_CTF_redflag"
+          ]
+        },
+        {
+          "id": 7,
+          "current_name": "",
+          "old_names": [],
+          "kills": 8,
+          "deaths": 19,
+          "suicides": 4,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "team_CTF_blueflag",
+            "weapon_railgun",
+            "ammo_rockets",
+            "ammo_bullets",
+            "team_CTF_redflag",
+            "item_health_large"
+          ]
+        },
+        {
+          "id": 8,
+          "current_name": "",
+          "old_names": [],
+          "kills": 3,
+          "deaths": 20,
+          "suicides": 3,
+          "favorite_weapon": "MOD_RAILGUN",
+          "collected_items": [
+            "item_health_large",
+            "weapon_rocketlauncher",
+            "weapon_railgun",
+            "team_CTF_blueflag",
+            "team_CTF_redflag",
+            "item_armor_body"
+          ]
+        }
+      ]
+    },
+    {
+      "game": 15,
+      "map": "Q3TOURNEY6_CTF",
+      "total_kills": 3,
+      "players": [
+        {
+          "id": 2,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 0,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": []
+        },
+        {
+          "id": 3,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 0,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": []
+        },
+        {
+          "id": 4,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 3,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "weapon_railgun",
+            "item_armor_body",
+            "team_CTF_redflag",
+            "ammo_rockets",
+            "ammo_bullets",
+            "weapon_rocketlauncher",
+            "team_CTF_blueflag"
+          ]
+        },
+        {
+          "id": 5,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 0,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": []
+        },
+        {
+          "id": 7,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 0,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": []
+        }
+      ]
+    },
+    {
+      "game": 16,
+      "map": "Q3TOURNEY6_CTF",
+      "total_kills": 0,
+      "players": [
+        {
+          "id": 2,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 0,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": []
+        },
+        {
+          "id": 3,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 0,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "weapon_railgun"
+          ]
+        },
+        {
+          "id": 4,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 0,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "weapon_railgun",
+            "weapon_rocketlauncher"
+          ]
+        },
+        {
+          "id": 5,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 0,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": []
+        },
+        {
+          "id": 6,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 0,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": []
+        }
+      ]
+    },
+    {
+      "game": 17,
+      "map": "q3dm17",
+      "total_kills": 13,
+      "players": [
+        {
+          "id": 2,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 2,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "ammo_rockets"
+          ]
+        },
+        {
+          "id": 3,
+          "current_name": "",
+          "old_names": [],
+          "kills": 1,
+          "deaths": 3,
+          "suicides": 1,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "ammo_rockets",
+            "item_armor_shard",
+            "item_armor_combat",
+            "item_health_large",
+            "ammo_shells",
+            "weapon_shotgun"
+          ]
+        },
+        {
+          "id": 4,
+          "current_name": "",
+          "old_names": [],
+          "kills": 1,
+          "deaths": 1,
+          "suicides": 0,
+          "favorite_weapon": "MOD_RAILGUN",
+          "collected_items": [
+            "weapon_railgun",
+            "weapon_rocketlauncher",
+            "item_quad",
+            "ammo_rockets",
+            "ammo_slugs"
+          ]
+        },
+        {
+          "id": 5,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 4,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "item_armor_body",
+            "ammo_rockets",
+            "item_quad",
+            "weapon_railgun",
+            "item_armor_combat"
+          ]
+        },
+        {
+          "id": 6,
+          "current_name": "",
+          "old_names": [],
+          "kills": 1,
+          "deaths": 2,
+          "suicides": 0,
+          "favorite_weapon": "MOD_RAILGUN",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "weapon_railgun",
+            "item_health",
+            "item_armor_shard",
+            "weapon_shotgun",
+            "item_health_large",
+            "item_armor_body",
+            "ammo_rockets"
+          ]
+        },
+        {
+          "id": 7,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 1,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "item_armor_shard",
+            "ammo_slugs",
+            "item_quad",
+            "weapon_railgun"
+          ]
+        }
+      ]
+    },
+    {
+      "game": 18,
+      "map": "q3dm17",
+      "total_kills": 7,
+      "players": [
+        {
+          "id": 2,
+          "current_name": "",
+          "old_names": [],
+          "kills": 1,
+          "deaths": 1,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET",
+          "collected_items": [
+            "weapon_rocketlauncher"
+          ]
+        },
+        {
+          "id": 3,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 1,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "item_health_large"
+          ]
+        },
+        {
+          "id": 4,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 1,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "weapon_rocketlauncher"
+          ]
+        },
+        {
+          "id": 5,
+          "current_name": "",
+          "old_names": [],
+          "kills": 2,
+          "deaths": 1,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "ammo_rockets",
+            "weapon_rocketlauncher",
+            "item_armor_shard",
+            "item_armor_combat"
+          ]
+        },
+        {
+          "id": 6,
+          "current_name": "",
+          "old_names": [],
+          "kills": 2,
+          "deaths": 1,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "ammo_rockets",
+            "item_armor_body",
+            "weapon_rocketlauncher",
+            "ammo_bullets"
+          ]
+        },
+        {
+          "id": 7,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 2,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "ammo_bullets",
+            "weapon_rocketlauncher"
+          ]
+        }
+      ]
+    },
+    {
+      "game": 19,
+      "map": "q3dm17",
+      "total_kills": 95,
+      "players": [
+        {
+          "id": 2,
+          "current_name": "",
+          "old_names": [],
+          "kills": 14,
+          "deaths": 12,
+          "suicides": 1,
+          "favorite_weapon": "MOD_RAILGUN",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "ammo_rockets",
+            "weapon_railgun",
+            "item_armor_body",
+            "item_quad",
+            "item_armor_shard",
+            "ammo_bullets",
+            "ammo_slugs"
+          ]
+        },
+        {
+          "id": 3,
+          "current_name": "",
+          "old_names": [],
+          "kills": 11,
+          "deaths": 14,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "weapon_shotgun",
+            "ammo_shells",
+            "weapon_rocketlauncher",
+            "item_armor_shard",
+            "item_health_large",
+            "item_armor_combat",
+            "ammo_bullets",
+            "ammo_rockets",
+            "weapon_railgun",
+            "item_quad"
+          ]
+        },
+        {
+          "id": 4,
+          "current_name": "",
+          "old_names": [],
+          "kills": 13,
+          "deaths": 15,
+          "suicides": 2,
+          "favorite_weapon": "MOD_ROCKET",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "item_quad",
+            "weapon_railgun",
+            "item_health",
+            "item_health_large",
+            "item_armor_shard",
+            "item_armor_combat",
+            "ammo_rockets"
+          ]
+        },
+        {
+          "id": 5,
+          "current_name": "",
+          "old_names": [],
+          "kills": 11,
+          "deaths": 17,
+          "suicides": 1,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "item_armor_shard",
+            "item_health_large",
+            "item_armor_body",
+            "weapon_rocketlauncher",
+            "ammo_rockets",
+            "item_armor_combat",
+            "weapon_shotgun",
+            "weapon_railgun",
+            "item_quad"
+          ]
+        },
+        {
+          "id": 6,
+          "current_name": "",
+          "old_names": [],
+          "kills": 21,
+          "deaths": 18,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "ammo_rockets",
+            "item_health_large",
+            "ammo_bullets",
+            "item_quad",
+            "item_armor_body",
+            "weapon_railgun",
+            "item_armor_shard",
+            "weapon_shotgun",
+            "ammo_shells",
+            "item_armor_combat"
+          ]
+        },
+        {
+          "id": 7,
+          "current_name": "",
+          "old_names": [],
+          "kills": 8,
+          "deaths": 19,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET",
+          "collected_items": [
+            "item_armor_shard",
+            "item_armor_combat",
+            "weapon_shotgun",
+            "weapon_rocketlauncher",
+            "ammo_slugs",
+            "ammo_shells",
+            "item_health_large",
+            "weapon_railgun"
+          ]
+        }
+      ]
+    },
+    {
+      "game": 20,
+      "map": "q3dm17",
+      "total_kills": 3,
+      "players": [
+        {
+          "id": 2,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 0,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "weapon_railgun"
+          ]
+        },
+        {
+          "id": 3,
+          "current_name": "",
+          "old_names": [],
+          "kills": 1,
+          "deaths": 0,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET",
+          "collected_items": [
+            "item_armor_body",
+            "ammo_rockets",
+            "weapon_shotgun",
+            "weapon_rocketlauncher"
+          ]
+        },
+        {
+          "id": 4,
+          "current_name": "",
+          "old_names": [],
+          "kills": 1,
+          "deaths": 1,
+          "suicides": 1,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "item_armor_shard",
+            "item_armor_combat"
+          ]
+        },
+        {
+          "id": 5,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 1,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "ammo_rockets",
+            "weapon_rocketlauncher",
+            "item_health_large"
+          ]
+        },
+        {
+          "id": 6,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 1,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": []
+        },
+        {
+          "id": 7,
+          "current_name": "",
+          "old_names": [],
+          "kills": 0,
+          "deaths": 0,
+          "suicides": 0,
+          "favorite_weapon": "none",
+          "collected_items": [
+            "weapon_rocketlauncher"
+          ]
+        }
+      ]
+    },
+    {
+      "game": 21,
+      "map": "q3dm17",
+      "total_kills": 131,
+      "players": [
+        {
+          "id": 2,
+          "current_name": "",
+          "old_names": [],
+          "kills": 19,
+          "deaths": 19,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "weapon_railgun",
+            "ammo_rockets",
+            "weapon_rocketlauncher",
+            "item_quad",
+            "item_armor_shard",
+            "item_armor_combat",
+            "item_health_large",
+            "ammo_shells",
+            "weapon_shotgun",
+            "item_armor_body"
+          ]
+        },
+        {
+          "id": 3,
+          "current_name": "",
+          "old_names": [],
+          "kills": 23,
+          "deaths": 18,
+          "suicides": 1,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "item_armor_body",
+            "item_health_large",
+            "weapon_rocketlauncher",
+            "weapon_shotgun",
+            "ammo_shells",
+            "item_armor_shard",
+            "item_armor_combat",
+            "ammo_rockets",
+            "item_quad",
+            "weapon_railgun"
+          ]
+        },
+        {
+          "id": 4,
+          "current_name": "",
+          "old_names": [],
+          "kills": 14,
+          "deaths": 19,
+          "suicides": 2,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "ammo_rockets",
+            "weapon_rocketlauncher",
+            "item_armor_shard",
+            "item_health_large",
+            "weapon_railgun",
+            "item_health",
+            "item_quad",
+            "item_armor_body",
+            "ammo_bullets"
+          ]
+        },
+        {
+          "id": 5,
+          "current_name": "",
+          "old_names": [],
+          "kills": 19,
+          "deaths": 30,
+          "suicides": 3,
+          "favorite_weapon": "MOD_ROCKET",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "item_armor_shard",
+            "item_armor_combat",
+            "item_armor_body",
+            "item_health_large",
+            "ammo_rockets",
+            "weapon_railgun",
+            "weapon_shotgun",
+            "item_quad"
+          ]
+        },
+        {
+          "id": 6,
+          "current_name": "",
+          "old_names": [],
+          "kills": 21,
+          "deaths": 15,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "ammo_rockets",
+            "weapon_rocketlauncher",
+            "ammo_slugs",
+            "weapon_railgun",
+            "item_armor_shard",
+            "item_armor_combat",
+            "item_quad",
+            "ammo_shells",
+            "weapon_shotgun",
+            "item_health_mega",
+            "item_health_large",
+            "ammo_bullets"
+          ]
+        },
+        {
+          "id": 7,
+          "current_name": "",
+          "old_names": [],
+          "kills": 12,
+          "deaths": 30,
+          "suicides": 0,
+          "favorite_weapon": "MOD_ROCKET_SPLASH",
+          "collected_items": [
+            "weapon_rocketlauncher",
+            "item_health_large",
+            "weapon_shotgun",
+            "ammo_shells",
+            "item_quad",
+            "ammo_rockets",
+            "item_armor_body",
+            "weapon_railgun",
+            "item_armor_shard",
+            "item_armor_combat"
+          ]
+        }
+      ]
+    }
+  ]
+}
